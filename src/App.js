@@ -9,7 +9,7 @@ export default function App() {
       <div className="">
 
         <ul className="nav">
-          <li>{"آخرین دوره ها"}</li>
+          
           <li>{"تخفیفات روزانه"}</li>
           <li>{"آخرین دوره ها"}</li>
           <li>{"آخرین دوره ها"}</li>
